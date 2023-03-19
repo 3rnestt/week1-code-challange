@@ -10,6 +10,9 @@ PART 1:Grading System
 PART 2:Speed Detector
 -A user enters his/her speed in km/hr. If the speed is within the speed limit a messsage (Ok) is outputted. If not the speed above and the speed limit is used to calculate ones demerit points and output them.If the user loses more than 12 points , their licence in suspended.
 
+PART 3:Net Salary Calculator
+-A user enters their basic salary and benefits. The program calculates their Net Salary, Pay As You Earn (PAYE), various deductions and gross salary. 
+
 
 ## SetUp Instruction
 You will need Visual Studio Code to run this programs by going live.
